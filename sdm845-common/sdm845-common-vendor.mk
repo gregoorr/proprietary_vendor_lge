@@ -489,7 +489,6 @@ PRODUCT_COPY_FILES += \
     vendor/lge/sdm845-common/proprietary/vendor/lib/libvss_resim_idl.so:$(TARGET_COPY_OUT_VENDOR)/lib/libvss_resim_idl.so \
     vendor/lge/sdm845-common/proprietary/vendor/lib/libvss_resim_iface.so:$(TARGET_COPY_OUT_VENDOR)/lib/libvss_resim_iface.so \
     vendor/lge/sdm845-common/proprietary/vendor/lib/libvssims-impl.so:$(TARGET_COPY_OUT_VENDOR)/lib/libvssims-impl.so \
-    vendor/lge/sdm845-common/proprietary/vendor/lib/libwfdaac_vendor.so:$(TARGET_COPY_OUT_VENDOR)/lib/libwfdaac_vendor.so \
     vendor/lge/sdm845-common/proprietary/vendor/lib/libwfdcodecv4l2_proprietary.so:$(TARGET_COPY_OUT_VENDOR)/lib/libwfdcodecv4l2_proprietary.so \
     vendor/lge/sdm845-common/proprietary/vendor/lib/libwfdcommonutils_proprietary.so:$(TARGET_COPY_OUT_VENDOR)/lib/libwfdcommonutils_proprietary.so \
     vendor/lge/sdm845-common/proprietary/vendor/lib/libwfdconfigutils_proprietary.so:$(TARGET_COPY_OUT_VENDOR)/lib/libwfdconfigutils_proprietary.so \
