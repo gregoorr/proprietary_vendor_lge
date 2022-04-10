@@ -429,10 +429,6 @@ PRODUCT_COPY_FILES += \
     vendor/lge/sdm845-common/proprietary/vendor/lib/libvpphcp.so:$(TARGET_COPY_OUT_VENDOR)/lib/libvpphcp.so \
     vendor/lge/sdm845-common/proprietary/vendor/lib/libvpphvx.so:$(TARGET_COPY_OUT_VENDOR)/lib/libvpphvx.so \
     vendor/lge/sdm845-common/proprietary/vendor/lib/libvpplibrary.so:$(TARGET_COPY_OUT_VENDOR)/lib/libvpplibrary.so \
-    vendor/lge/sdm845-common/proprietary/vendor/lib/notadreno_utils.so:$(TARGET_COPY_OUT_VENDOR)/lib/notadreno_utils.so \
-    vendor/lge/sdm845-common/proprietary/vendor/lib/notgsl.so:$(TARGET_COPY_OUT_VENDOR)/lib/notgsl.so \
-    vendor/lge/sdm845-common/proprietary/vendor/lib/notllvm-glnext.so:$(TARGET_COPY_OUT_VENDOR)/lib/notllvm-glnext.so \
-    vendor/lge/sdm845-common/proprietary/vendor/lib/notllvm-qgl.so:$(TARGET_COPY_OUT_VENDOR)/lib/notllvm-qgl.so \
     vendor/lge/sdm845-common/proprietary/vendor/lib/soundfx/libaisound.so:$(TARGET_COPY_OUT_VENDOR)/lib/soundfx/libaisound.so \
     vendor/lge/sdm845-common/proprietary/vendor/lib/soundfx/libasphere.so:$(TARGET_COPY_OUT_VENDOR)/lib/soundfx/libasphere.so \
     vendor/lge/sdm845-common/proprietary/vendor/lib/soundfx/libaudiopreprocessing.so:$(TARGET_COPY_OUT_VENDOR)/lib/soundfx/libaudiopreprocessing.so \
@@ -764,10 +760,6 @@ PRODUCT_COPY_FILES += \
     vendor/lge/sdm845-common/proprietary/vendor/lib64/libxtwifi_server_protocol.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libxtwifi_server_protocol.so \
     vendor/lge/sdm845-common/proprietary/vendor/lib64/libxtwifi_server_protocol_uri_v3.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libxtwifi_server_protocol_uri_v3.so \
     vendor/lge/sdm845-common/proprietary/vendor/lib64/nfc_lg.pn55x.so:$(TARGET_COPY_OUT_VENDOR)/lib64/nfc_lg.pn55x.so \
-    vendor/lge/sdm845-common/proprietary/vendor/lib64/notadreno_utils.so:$(TARGET_COPY_OUT_VENDOR)/lib64/notadreno_utils.so \
-    vendor/lge/sdm845-common/proprietary/vendor/lib64/notgsl.so:$(TARGET_COPY_OUT_VENDOR)/lib64/notgsl.so \
-    vendor/lge/sdm845-common/proprietary/vendor/lib64/notllvm-glnext.so:$(TARGET_COPY_OUT_VENDOR)/lib64/notllvm-glnext.so \
-    vendor/lge/sdm845-common/proprietary/vendor/lib64/notllvm-qgl.so:$(TARGET_COPY_OUT_VENDOR)/lib64/notllvm-qgl.so \
     vendor/lge/sdm845-common/proprietary/vendor/lib64/qcrild_librilutils.so:$(TARGET_COPY_OUT_VENDOR)/lib64/qcrild_librilutils.so \
     vendor/lge/sdm845-common/proprietary/vendor/lib64/qtibus.so:$(TARGET_COPY_OUT_VENDOR)/lib64/qtibus.so \
     vendor/lge/sdm845-common/proprietary/vendor/lib64/qtimutex.so:$(TARGET_COPY_OUT_VENDOR)/lib64/qtimutex.so \
